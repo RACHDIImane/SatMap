@@ -3,9 +3,9 @@
 This repository contains the research and findings from my master's thesis on "Geological Mapping from Space." The primary objective of this project is to explore and assess the capabilities of recent satellite missions  relative to airborne hyperspectral sensor for geological mapping.
 ## Mission Involvement
 The study focuses on three key satellite missions: 
-1. **PRISMA (Italian Mission):** [Link to PRISMA Mission]((https://prisma.asi.it/))
+1. **PRISMA (Italian Mission):** [https://prisma.asi.it/]
 2. **EnMAP (German Mission):** [Link to EnMAP Mission]((https://planning.enmap.org/))
-3. **EMIT (NASA Mission):** [Link to EMIT Mission]((https://earth.jpl.nasa.gov/emit/)https://earth.jpl.nasa.gov/emit/)
+3. **EMIT (NASA Mission):** [Link to EMIT Mission]https://earth.jpl.nasa.gov/emit/)
 Additionally, data from the HyMap airborne hyperspectral sensor is incorporated into the analysis.
 ## Repository Contents
 The repository includes:
