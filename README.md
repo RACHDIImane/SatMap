@@ -4,8 +4,9 @@ This repository contains the research and findings from my master's thesis on "G
 ## Mission Involvement
 The study focuses on three key satellite missions: 
 1. **PRISMA (Italian Mission):** [https://prisma.asi.it/]
-2. **EnMAP (German Mission):** [(https://planning.enmap.org/)]
+2. **EnMAP (German Mission):** [https://planning.enmap.org/]
 3. **EMIT (NASA Mission):** [https://earth.jpl.nasa.gov/emit/]
+
 Additionally, data from the HyMap airborne hyperspectral sensor is incorporated into the analysis.
 ## Repository Contents
 The repository includes:
